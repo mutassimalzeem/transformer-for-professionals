@@ -136,4 +136,4 @@ See `utils/shapes.md`.
 
 ---
 
-For the step-by-step derivation of every component, see [transformer-from-scratch](https://github.com/).
+For the step-by-step derivation of every component, see [transformer-from-scratch](https://github.com/mutassimalzeem/transformer-from-scratch.git).
